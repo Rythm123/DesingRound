@@ -1,0 +1,32 @@
+export const data=[
+    {
+        id:'1',
+        name:'Apple',
+        category:'Fruit'
+    },
+    {
+        id:'2',
+        name:'Banana',
+        category:'Fruit'
+    },
+    {
+        id:'3',
+        name:'Carrot',
+        category:'Vegetable'
+    },
+    {
+        id:'4',
+        name:'Raddish',
+        category:'Vegetable'
+    },
+    {
+        id:'5',
+        name:'Jordans',
+        category:'Shoes'
+    },
+    {
+        id:'6',
+        name:'iphone',
+        category:'Mobile'
+    },
+]

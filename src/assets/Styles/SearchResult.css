@@ -1,0 +1,4 @@
+.search-wrapper .search-element{
+    display: flex;
+    gap: 30px;
+}
